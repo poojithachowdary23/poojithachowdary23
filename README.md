@@ -1,3 +1,8 @@
+<!-- Banner start -->
+![gitbanner](C:\Users\ppooj\Downloads\ChatGPT Image Aug 22, 2025, 02_02_24 PM.png)
+<div id="welcome"></div>
+<!-- Banner end -->
+
 ## Hi there 👋
 
 <!--
