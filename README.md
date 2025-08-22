@@ -1,8 +1,5 @@
-attachments/assets/1ada7172-2f99-4b1a-a41d-b60446ee1b85" />
-<!-- Banner start -->
-![gitbanner](C:\Users\ppooj\Downloads\ChatGPT Image Aug 22, 2025, 02_02_24 PM.png)
-<div id="welcome"></div>
-<!-- Banner end -->
+<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 02_02_24 PM" src="https://github.com/user-attachments/assets/cba5e07a-a350-4142-b969-658deb35493b" />
+
 
 ## Hi there 👋
 
