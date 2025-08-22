@@ -1,8 +1,8 @@
-z
 <!-- Banner start -->
-![gitbanner]("<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 02_02_24 PM" src="https://github.com/user-attachments/assets/0e74cf3f-e928-49af-a61b-b2376e524f0b" />")
+![gitbanner]("https://github.com/user-attachments/assets/0e74cf3f-e928-49af-a61b-b2376e524f0b" />)
 <div id="welcome"></div>
 <!-- Banner end -->
+
 
 ## Hi there 👋
 
