@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 02_02_24 PM" src="https://github.com/user-attachments/assets/af463bd7-97a4-48d6-8608-4b9a9d5407a3" />
 <!-- Banner start -->
-![gitbanner]
+
 <div id="welcome"></div>
 <!-- Banner end -->
 
