@@ -11,6 +11,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/t-poojitha-5a5a7025b/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
 <a href="https://github.com/poojithachowdary23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_poojithahahaha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 <img align="right" alt="Coding" width="280" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <!-- Header end -->
@@ -81,8 +82,10 @@
       <tbody>
          <tr>
             <td align="center">
-               <span><strong>Android Studio</strong></span><br/>
-               <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio">
+               <span><strong><a href="https://developer.android.com/studio" target="blank">Android Studio</a></strong></span><br/>
+               <a href="https://developer.android.com/studio" target="blank">
+                  <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio">
+               </a>
             </td>
             <td align="center">
                <span><strong>VS Code</strong></span><br/>
@@ -120,21 +123,8 @@
 [![Poojitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poojithachowdary23&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- GitHub Activity end -->
 
-## ☕️ Support:
-<p><a href="https://ko-fi.com/"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
-
 <div align="right">
     <b><a href="#welcome">↥ back to top</a></b>
 </div>
 
 <!--- copyright @github.com/poojithachowdary23 --->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
